@@ -1,10 +1,10 @@
 👋 Hi, I’m @alixe-a
 
-👀 I’m interested in Mlops, devops & data-science
+👀 I’m a MLOps Engineer @Aqemia
 
-🌱 I’m currently learning great-expectations
+🌱 I’m interested in everything that is good to human and that challenge me 
 
-📫 Reach me by github :) 
+📫 Reach me on github :) 
 
 <!---
 alixe-a/alixe-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
