@@ -1,6 +1,6 @@
 👋 Hi, I’m @alixe-a
 
-👀 I’m a MLOps Engineer @Aqemia
+👀 I’m a MLOps Engineer
 
 🌱 I’m interested in everything that is good to human and that challenge me 
 
